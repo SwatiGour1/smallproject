@@ -126,7 +126,13 @@ margin-top: 100px;
     }
 table{
     width: 70%;
+    margin-left: 90px;
+    /* text-align: center; */
 }
 td{
     margin-left: 50px;
+    text-align: center;
+}
+th{
+    text-align: center;
 }
