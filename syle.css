@@ -9,6 +9,8 @@ nav{
     border: 2px solid black;
     padding: 10px;
     font-size: 25px;
+    background-color:  rgb(9, 189, 9);
+    color: white;
     /* justify-content: space-evenly; */
 }
 ul{
@@ -35,7 +37,7 @@ input{
     padding: 5px;
 }
 .d1{
-    width: 1500px;
+    width: 1365px;
     height: 250px;
     border: 2px solid transparent;
     background-color: gray;
@@ -63,3 +65,56 @@ font-size:45px;
 .d5 ul{
     margin-left: 270px;
 }
+.d10{
+    /* border: 2px solid; */
+    }
+    .img1{
+        width:400px;
+        /* border: 2px solid; */
+        margin-left: 20px;
+    }
+    .d10{
+        display: flex;
+        flex-direction: row;
+        /* justify-content: space-around; */
+    }
+    .side{
+        display: flex;
+        margin-left: 60px;
+        margin-top: 15px;
+    }
+    .d11 h3{
+        margin-left: 16px;
+        margin-top: 10px;
+    }
+    .btn .btn1{
+        padding: 3px;
+        width:90px;
+        background-color: rgb(9, 189, 9);
+        border: none;
+        color: white;
+    }
+    .btn .btn2{
+        padding: 3px;
+        width: 100px;
+        background-color:  rgb(9, 189, 9);
+        border: none;
+        color: white;
+    }
+    .cloth{
+        margin-left: 20px;
+    }
+    .deals{
+        margin-left: 20px;
+    }
+    .side1 .btn3{
+margin-top: 100px;
+    }
+    .nav1{
+        background-color:  rgb(9, 189, 9);
+        padding: 5px;
+        text-align: center;
+        color: white;
+        font-size: 20px;
+        margin-top:6px;
+    }
