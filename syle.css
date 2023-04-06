@@ -34,3 +34,23 @@ input{
     width: 250px;
     padding: 5px;
 }
+.d1{
+    width: 1500px;
+    height: 250px;
+    border: 2px solid ;
+}
+.d1 h1{
+    margin-top: 50px;
+margin-left: 600px;
+font-size:45px;
+}
+.d1 p{
+    margin-top: 10px;
+    margin-left:500px;
+    font-size:20px;
+    font-family:'Times New Roman', Times, serif;
+    line-height:26px;
+}
+.d1 a{
+    color: rgb(9, 189, 9);
+}
